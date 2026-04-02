@@ -146,6 +146,7 @@ footer{
     gap:20px;
     justify-content:center;
     flex-wrap:wrap;
+    margin-top: 80px; 
 }
 
 .category .card{
